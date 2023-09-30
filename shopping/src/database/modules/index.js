@@ -1,4 +1,5 @@
+// database related modules
 module.exports = {
-    OrderModel: require('./Order'),
-    CartModel: require('./Cart')
+    databaseConnection: require('./connection'),
+    ShoppingRepository: require('./repository/shopping-repository')
 }
