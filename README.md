@@ -1,6 +1,6 @@
 # Microservices_nodejs Project
 
-This project is a Node.js microservices application for selling furniture.
+This project is a Node.js microservices application for e-commerce.
 
 ## Table of Contents
 
