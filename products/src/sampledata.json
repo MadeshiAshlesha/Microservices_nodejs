@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Wooden Dining Table",
+        "desc": "High-quality wooden dining table for your home",
+        "type": "furniture",
+        "banner": "https://www.pepperfry.com/product/carion-sheesham-wood-foldable-4-seater-dining-table-in-honey-oak-finish-with-wheels-2022347.html",
+        "unit": 1,
+        "price": 500,
+        "available": true,
+        "supplier": "Furniture Emporium"
+    },
+    {
+        "name": "Leather Sofa",
+        "desc": "Luxurious leather sofa for your living room",
+        "type": "furniture",
+        "banner": "https://www.pepperfry.com/product/patrick-leather-3-seater-sofa-in-red-colour-1979849.html?type=search&pos=2&total_result=58&sort=sorting_score%7Cdesc&filter=%7C&search=leather%20spfa",
+        "unit": 1,
+        "price": 800,
+        "available": true,
+        "supplier": "Furniture Emporium"
+    },
+    {
+        "name": "Wooden Wardrobe",
+        "desc": "Spacious wooden wardrobe for your bedroom",
+        "type": "furniture",
+        "banner": "https://www.pepperfry.com/product/ujisato-eight-door-wardrobe-with-two-drawers-by-mintwud-1716492.html?type=search&pos=3&total_result=367&sort=sorting_score%7Cdesc&filter=%7C&search=wooden%20almirah",
+        "unit": 1,
+        "price": 600,
+        "available": true,
+        "supplier": "Furniture Emporium"
+    },
+    {
+        "name": "Glass Coffee Table",
+        "desc": "Modern glass coffee table for your living room",
+        "type": "furniture",
+        "banner": "https://www.pepperfry.com/product/clifton-coffee-table-in-dual-colour-1816308.html?type=clip&pos=19&total_result=757&fromId=1823&sort=sorting_score%7Cdesc&filter=%7C&cat=1823",
+        "unit": 1,
+        "price": 300,
+        "available": true,
+        "supplier": "Furniture Emporium"
+    },
+    {
+        "name": "Bedroom Dresser",
+        "desc": "Elegant wooden dresser for your bedroom",
+        "type": "furniture",
+        "banner": "https://www.pepperfry.com/product/cara-dressing-unit-in-teak-finish-2028800.html?type=search&pos=1&total_result=162&sort=sorting_score%7Cdesc&filter=%7C&search=dresser",
+        "unit": 1,
+        "price": 450,
+        "available": true,
+        "supplier": "Furniture Emporium"
+    },
+    {
+        "name": "Office Desk",
+        "desc": "Functional office desk for your workspace",
+        "type": "furniture",
+        "banner": "https://www.pepperfry.com/product/icon-executive-desk-with-storage-in-fumed-oak-colour-2052157.html",
+        "unit": 1,
+        "price": 350,
+        "available": true,
+        "supplier": "Furniture Emporium"
+    },
+    {
+        "name": "Lounge Chair",
+        "desc": "Comfortable lounge chair for relaxation",
+        "type": "furniture",
+        "banner": "https://www.pepperfry.com/product/carlito-fabric-full-back-lounge-chair-in-natural-finish-1902240.html?type=search&pos=1&total_result=213&sort=sorting_score%7Cdesc&filter=%7C&search=lounge%20chair",
+        "unit": 1,
+        "price": 250,
+        "available": true,
+        "supplier": "Furniture Emporium"
+    }
+]
